@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/agrawal2510/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/agrawal2510/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agrawal2510/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/agrawal2510/DSA-Practice/tree/master/0039-combination-sum) |
+| [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/agrawal2510/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
@@ -33,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agrawal2510/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/agrawal2510/DSA-Practice/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
