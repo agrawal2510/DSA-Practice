@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agrawal2510/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/agrawal2510/DSA-Practice/tree/master/0039-combination-sum) |
+| [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/agrawal2510/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Backtracking
@@ -51,4 +52,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
