@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/agrawal2510/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/agrawal2510/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/agrawal2510/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/agrawal2510/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/agrawal2510/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/agrawal2510/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/agrawal2510/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/agrawal2510/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
