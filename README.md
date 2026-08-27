@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/agrawal2510/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/agrawal2510/DSA-Practice/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/agrawal2510/DSA-Practice/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/agrawal2510/DSA-Practice/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/agrawal2510/DSA-Practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/agrawal2510/DSA-Practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/agrawal2510/DSA-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
