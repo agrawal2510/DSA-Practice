@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/agrawal2510/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/agrawal2510/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/agrawal2510/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/agrawal2510/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/agrawal2510/DSA-Practice/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/agrawal2510/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/agrawal2510/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
