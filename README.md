@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/agrawal2510/DSA-Practice/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/agrawal2510/DSA-Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
 ## Queue
 |  |
