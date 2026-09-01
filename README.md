@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/agrawal2510/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
 ## Queue
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/agrawal2510/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/agrawal2510/DSA-Practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
