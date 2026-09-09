@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agrawal2510/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/agrawal2510/DSA-Practice/tree/master/0039-combination-sum) |
+| [0136-single-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/agrawal2510/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/agrawal2510/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/agrawal2510/DSA-Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/agrawal2510/DSA-Practice/tree/master/0231-power-of-two) |
