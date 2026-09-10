@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agrawal2510/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/agrawal2510/DSA-Practice/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/agrawal2510/DSA-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/agrawal2510/DSA-Practice/tree/master/0137-single-number-ii) |
 | [0239-sliding-window-maximum](https://github.com/agrawal2510/DSA-Practice/tree/master/0239-sliding-window-maximum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/agrawal2510/DSA-Practice/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/agrawal2510/DSA-Practice/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/agrawal2510/DSA-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/agrawal2510/DSA-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/agrawal2510/DSA-Practice/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/agrawal2510/DSA-Practice/tree/master/0191-number-of-1-bits) |
